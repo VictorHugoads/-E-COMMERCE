@@ -1,7 +1,7 @@
 # 🛒 E-COMMERCE  
 **Refinando um Projeto Conceitual de Banco de Dados**
 
-> Desafio proposto no Bootcamp **Geração Tech Unimed-BH – Ciência de Dados** na plataforma [DIO](https://web.dio.me).
+> Desafio proposto na plataforma [DIO](https://web.dio.me).
 
 ---
 
@@ -33,6 +33,7 @@ Este projeto tem como objetivo refinar o modelo conceitual de banco de dados par
 
 > Diagrama modelado no MySQL Workbench:
 
-![Modelo E-commerce](./E-COMMERCE/ecommerce_imagem.png)
+![ecommerce_imagem](https://github.com/user-attachments/assets/8e0b475b-4a2d-406b-937e-6c30ecfdbd3a)
+
 
 
